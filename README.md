@@ -5,9 +5,8 @@
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
-  <a href="mailto:your-email@example.com">Email</a> |
-  <a href="https://linkedin.com/in/yourusername">LinkedIn</a> |
-  <a href="https://twitter.com/yourusername">Twitter</a>
+  <a href="mailto:jasleen2357@gmail.com">Email</a> |
+  <a href="https://linkedin.com/in/jasleenkaur1998">LinkedIn</a> 
 </p>
 
 <h3 align="center">Languages and Tools:</h3>
@@ -21,7 +20,5 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original-wordmark.svg" alt="Git" width="40" height="40"/>
 </p>
-
-<p align="center">&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=jasleenkaur1998&show_icons=true&locale=en" alt="jasleenkaur1998" /></p>
 
 <p align="center">Thank you for visiting! 😊</p>
